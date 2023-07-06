@@ -5,7 +5,7 @@ export type Document = {
   id: string;
   title: string;
   description: string;
-  url: string;
+  link: string;
   created_at: Date;
   updated_at: Date;
 };
