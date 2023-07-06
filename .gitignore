@@ -31,3 +31,13 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Environment variables
+.env
+
+# NextJS builded files
+public/*
+
+# Ignore Mac DS_Store files
+.DS_Store
+.DS_Store?
